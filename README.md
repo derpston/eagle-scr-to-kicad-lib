@@ -30,8 +30,8 @@ DEF STM32F405RGT6 U 0 40 Y Y 1 F N
 
 If you load this .lib into KiCad with the library manager, you can see the converted part:
 
-![Converted part in KiCad](https://example.com "Converted part in KiCad")
+![Converted part in KiCad](https://raw.githubusercontent.com/derpston/eagle-scr-to-kicad-lib/master/docs/kicad_part.png "Converted part in KiCad")
 
 For comparison purposes, here's the same part as drawn by Eagle after executing the original .scr file: 
 
-![Original part in Eagle](https://example.com "Original part in Eagle")
+![Original part in Eagle](https://raw.githubusercontent.com/derpston/eagle-scr-to-kicad-lib/master/docs/eagle_part.png "Original part in Eagle")
